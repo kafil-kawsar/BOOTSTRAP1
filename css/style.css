@@ -1,0 +1,8 @@
+.box{
+  background-color: brown;
+  padding: 30px;
+}
+.box h1{
+    color: white;
+    text-align: center;
+}
